@@ -1,4 +1,4 @@
-import { describe, it, expect } from 'vitest';
+// import { describe, it, expect } from 'vitest'; // globals enabled
 import { embolden, makeLouder, repeat } from './words';
 
 describe('repeat', () => {
